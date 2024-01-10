@@ -1,3 +1,9 @@
+
+![youtube_batch and stream processing](https://github.com/ajayyadav746000/youtube_api-stream-processing-and-batch-processing-/assets/47300982/c4638124-228a-4126-a3b2-c81ab924649c)
+
+
+
+
 This Python script fetches comments from a YouTube video using the YouTube Data API, paginates through the comments,
 and stores them in a MongoDB database. It maintains a global counter for comment numbers, extracts comment text, and 
 inserts the data into MongoDB. The script is designed for flexibility with different video IDs and names. 
